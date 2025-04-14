@@ -1,0 +1,17 @@
+a -> b c d b c b d f
+a b -> c d e c d c
+a b c -> d e d
+b -> c d e c d c c a d c a c c d e c d c
+b c -> d e d a d a d e b d e d
+b c a -> d
+b c d -> e e b c e b e
+c -> d e d a d a d e b d e d
+c a -> d
+c d -> e e b c e b e
+c d e -> b c a b c b
+d -> e e b c e b e
+d e -> b c a b c b
+d e b -> c a d c a c
+e -> b c a b c b
+e b -> c a d c a c
+e b c -> a d a

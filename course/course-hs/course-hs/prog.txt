@@ -1,0 +1,5 @@
+but -> i
+but i -> love
+i -> very love
+love -> programming
+maths -> more

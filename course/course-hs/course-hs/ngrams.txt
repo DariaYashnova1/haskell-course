@@ -1,0 +1,59 @@
+and -> chirping
+and chirping birds -> the
+barked -> loudly
+barked loudly in -> the
+birds -> the
+birds the hunter -> left
+brown -> fox
+brown fox jumps -> over
+chirping -> birds
+chirping birds the -> hunter
+clever -> fox
+clever fox outsmarted -> the
+colorful -> flowers
+colorful flowers and -> chirping
+dog -> barked the
+dog barked loudly -> in
+dog the clever -> fox
+flowers -> and
+flowers and chirping -> birds
+fox -> outsmarted jumps
+fox jumps over -> the
+fox outsmarted the -> hunter
+full -> of
+full of colorful -> flowers
+hunter -> left the
+hunter left the -> park
+hunter the lazy -> dog
+in -> the
+in the park -> the
+jumps -> over
+jumps over the -> lazy
+lazy -> dog
+lazy dog barked -> loudly
+lazy dog the -> clever
+left -> the
+left the park -> disappointed
+loudly -> in
+loudly in the -> park
+of -> colorful
+of colorful flowers -> and
+outsmarted -> the
+outsmarted the hunter -> the
+over -> the
+over the lazy -> dog
+park -> disappointed was the
+park the park -> was
+park was full -> of
+quick -> brown
+quick brown fox -> jumps
+the -> park hunter lazy clever quick
+the clever fox -> outsmarted
+the hunter left -> the
+the hunter the -> lazy
+the lazy dog -> barked the
+the park the -> park
+the park was -> full
+the quick brown -> fox
+was -> full
+was full of -> colorful

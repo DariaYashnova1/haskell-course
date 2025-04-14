@@ -1,0 +1,42 @@
+name:                haskell-task
+version:             0.1.0.0
+
+
+
+
+dependencies:
+  - base
+ 
+
+
+library:
+  exposed-modules:     Lib
+  source-dirs:         src
+  language:    Haskell2010
+  dependencies:
+      - base >= 4.7 && < 5
+      - bytestring
+      - text
+      - containers
+      - directory
+      - filepath
+      - binary
+      - split           
+
+executables:
+  haskell-task-exe:
+    main:                Main.hs
+    source-dirs:         app
+    language:    Haskell2010
+    dependencies:
+      - base
+      - haskell-task
+      - bytestring
+      - text
+      - containers
+      - directory
+      - filepath
+      - binary
+      - split      
+
+
